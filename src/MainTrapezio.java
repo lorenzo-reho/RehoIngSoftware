@@ -2,7 +2,7 @@
  * <u>Classe principale MainTrapezio</u>
  * 
  * @author Reho Lorenzo 4CI
- * @version 1.0
+ * @version 2.0
  * 
  * */
 public class MainTrapezio {
