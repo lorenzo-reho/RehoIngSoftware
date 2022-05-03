@@ -19,6 +19,8 @@ public class MainTrapezio {
 	/*
 	 * Funzione che calcola l'area del trapezio
 	 * 
+	 * è stato riscontrato un errore durante il testing sull'input 31 1 5
+	 * 
 	 * @param b
 	 * @param B
 	 * @param h
